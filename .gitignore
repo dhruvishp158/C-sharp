@@ -9,3 +9,6 @@ calculator_try_catch/.vs/calculator_try_catch/v15/.suo
 *.csproj
 *.txt
 *.cache
+*.resx
+*.resources
+*.settings
