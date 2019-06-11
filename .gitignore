@@ -1,0 +1,11 @@
+
+calculator_try_catch/.vs/calculator_try_catch/v15/.suo
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.config
+*.pdb
+*.csproj
+*.txt
+*.cache
